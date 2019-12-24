@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="images">
+    <file>university-18-560138.png</file>
+    <file>taslar2.jpg</file>
+    <file>guzel.jpg</file>
+    <file>taslar.jpg</file>
+    <file>icons8-university-100.png</file>
+    <file>as.jpg</file>
+    <file>ase.jpg</file>
+    <file>sa.jpg</file>
+  </qresource>
+</RCC>

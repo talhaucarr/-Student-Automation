@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images2">
+    <file>icons8-exit-100.png</file>
+    <file>icons8-delete-100.png</file>
+    <file>icons8-plus-100.png</file>
+    <file>icons8-update-100.png</file>
+    <file>icons8-calendar-100.png</file>
+    <file>icons8-class-100.png</file>
+    <file>icons8-student-male-100.png</file>
+    <file>icons8-study-100.png</file>
+    <file>icons8-syllabus-90.png</file>
+    <file>taslar.jpg</file>
+    <file>yunan.jpg</file>
+  </qresource>
+</RCC>
